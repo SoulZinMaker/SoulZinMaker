@@ -96,5 +96,3 @@
 </p>
 
 ---
-
-<p align="center">✨ Built with ❤️ by <a href="https://github.com/SoulZinMaker">SoulZinMaker</a> ✨</p>
